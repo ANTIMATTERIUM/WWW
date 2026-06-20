@@ -1,5 +1,5 @@
 {
-  "site": "ANTIMATTERIUM_WWW",
+  "site": "https://antimatterium.github.io/WWW/",
   "version": "v0.1.3",
   "institution": "ANTIMATTERIUM",
   "root_repository": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM",
@@ -33,5 +33,38 @@
     "release": "https://github.com/qvra/lab/releases/tag/v0.1.0-qvra-antimatterium-lab-object",
     "pull_request": "https://github.com/qvra/lab/pull/1",
     "scope": "runnable qvra lab object"
-  }
+  },
+  "object": "ANTIMATTERIUM_WWW",
+  "surface": "public_www",
+  "latest_www_release": "v0.1.5-antimatterium-www-external-replay-surface",
+  "core_projection": {
+    "object": "ANTIMATTERIUM",
+    "release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.7-antimatterium-external-replay-runner",
+    "tag": "v0.2.7-antimatterium-external-replay-runner",
+    "repository": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM",
+    "control_plane": {
+      "digest": "e369b24436ca164e186ec38f4223db6a31118bfe049c659c2475f090a19075aa",
+      "bundle": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_CONTROL_PLANE_BUNDLE.json"
+    },
+    "runtime": {
+      "event_id": "f4923422f6f97910816b685376aacf9697222a6c09b1c0cabdb63419c07616d7",
+      "event": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_RUNTIME_EVENT_EXAMPLE.json"
+    },
+    "external_replay": {
+      "replay_id": "f522d7cd5371b9f18dd9d200578d666d7999d5717f1b5144143a5e4d2afe5171",
+      "receipt": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/public/ANTIMATTERIUM_EXTERNAL_REPLAY_RECEIPT.json",
+      "schema": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/blob/main/schemas/ANTIMATTERIUM_EXTERNAL_REPLAY_RECEIPT_SCHEMA.json"
+    },
+    "release_chain": [
+      "v0.2.7-antimatterium-external-replay-runner",
+      "v0.2.6-antimatterium-runtime-kernel",
+      "v0.2.5-antimatterium-control-plane"
+    ],
+    "boundaries": {
+      "NO_CURRENT_PRODUCTION_CLAIM": true,
+      "NO_STARSHIP_CLAIM": true,
+      "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true
+    }
+  },
+  "name": "ANTIMATTERIUM WWW"
 }
