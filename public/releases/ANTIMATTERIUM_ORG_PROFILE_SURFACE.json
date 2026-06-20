@@ -1,0 +1,29 @@
+{
+  "surface": "ANTIMATTERIUM_WWW_ORG_PROFILE_SURFACE",
+  "version": "v0.1.4",
+  "organization_profile": "https://github.com/ANTIMATTERIUM",
+  "organization_profile_release": "https://github.com/ANTIMATTERIUM/.github/releases/tag/v0.0.2-antimatterium-org-profile-privacy-scrub",
+  "core_release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.2-antimatterium-npm-021-publication-receipt",
+  "npm_package": "https://www.npmjs.com/package/@antimatterium/antimatterium",
+  "npm_version": "0.2.1",
+  "public_site": "https://antimatterium.github.io/WWW/",
+  "privacy_boundary": {
+    "contains_non_public_machine_locations": false,
+    "contains_non_public_inventory": false,
+    "contains_personal_portfolio_mapping": false,
+    "contains_unrelated_organization_mapping": false
+  },
+  "claim_boundary": {
+    "claims_current_industrial_antimatter_production": false,
+    "claims_starship_readiness": false,
+    "contains_physical_production_instructions": false,
+    "claims_unverified_external_adoption": false
+  },
+  "completion": {
+    "WWW_ORG_PROFILE_SURFACE_BOUND": true,
+    "ANTIMATTERIUM_ORG_PROFILE_BOUND": true,
+    "ANTIMATTERIUM_CORE_BOUND": true,
+    "NPM_PACKAGE_BOUND": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  }
+}
