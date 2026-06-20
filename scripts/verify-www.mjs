@@ -10,7 +10,7 @@ function assert(condition, message) {
 assert(site.site === "ANTIMATTERIUM_WWW", "site mismatch");
 assert(site.institution === "ANTIMATTERIUM", "institution mismatch");
 assert(site.npm_package.includes("@antimatterium/antimatterium"), "npm package missing");
-assert(site.latest_control_release.includes("v0.1.9-antimatterium-invocorder-external-recognition"), "external recognition release missing");
+assert(site.latest_control_release.includes("v0.2.0-antimatterium-qvra-external-lab-recognition"), "qvra lab recognition release missing");
 assert(site.claim_boundary.claims_current_industrial_antimatter_production === false, "production overclaim");
 assert(site.claim_boundary.claims_current_starship_readiness === false, "starship overclaim");
 assert(site.claim_boundary.claims_physical_production_instructions === false, "production instruction overclaim");
@@ -23,6 +23,8 @@ assert(html.includes("INVOCORDER"), "html missing INVOCORDER binding");
 assert(html.includes("qvra"), "html missing qvra binding");
 assert(html.includes("External recognition"), "html missing external recognition");
 assert(html.includes("INVOCORDER v2.0.1"), "html missing INVOCORDER v2.0.1 recognition");
+assert(html.includes("Runnable lab object"), "html missing runnable lab object");
+assert(html.includes("qvra lab v0.1.0"), "html missing qvra lab recognition");
 
 console.log("ANTIMATTERIUM_WWW_VERIFY_PASS=true");
 console.log("PUBLIC_WEB_SURFACE_BOUND=true");
@@ -30,6 +32,7 @@ console.log("NPM_PACKAGE_BOUND=true");
 console.log("GITHUB_RELEASE_BOUND=true");
 console.log("CROSS_STACK_BINDINGS_BOUND=true");
 console.log("INVOCORDER_EXTERNAL_RECOGNITION_BOUND=true");
+console.log("QVRA_EXTERNAL_LAB_RECOGNITION_BOUND=true");
 console.log("NO_CURRENT_PRODUCTION_CLAIM=true");
 console.log("NO_STARSHIP_CLAIM=true");
 console.log("NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true");
