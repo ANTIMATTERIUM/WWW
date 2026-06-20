@@ -1,0 +1,11 @@
+{
+  "name": "@antimatterium/www",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "verify": "node scripts/verify-www.mjs",
+    "test": "node scripts/verify-www.mjs"
+  }
+}

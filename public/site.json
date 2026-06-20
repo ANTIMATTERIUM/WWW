@@ -1,0 +1,19 @@
+{
+  "site": "ANTIMATTERIUM_WWW",
+  "version": "v0.1.0",
+  "institution": "ANTIMATTERIUM",
+  "root_repository": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM",
+  "npm_package": "https://www.npmjs.com/package/@antimatterium/antimatterium",
+  "npm_install": "npm i @antimatterium/antimatterium",
+  "latest_control_release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.1.7-antimatterium-npm-publication-receipt",
+  "claim_boundary": {
+    "claims_current_industrial_antimatter_production": false,
+    "claims_current_starship_readiness": false,
+    "claims_physical_production_instructions": false
+  },
+  "completion": {
+    "PUBLIC_WEB_SURFACE_BOUND": true,
+    "NPM_PACKAGE_BOUND": true,
+    "GITHUB_RELEASE_BOUND": true
+  }
+}
