@@ -1,12 +1,15 @@
 {
   "name": "@antimatterium/www",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "type": "module",
   "license": "Apache-2.0",
   "scripts": {
     "verify": "node scripts/verify-www.mjs",
     "test": "node scripts/verify-www.mjs",
-    "verify:org-profile-surface": "node scripts/verify-org-profile-surface.mjs"
-  }
+    "verify:org-profile-surface": "node scripts/verify-org-profile-surface.mjs",
+    "verify:v027": "node scripts/verify-v027-surface.mjs"
+  },
+  "verify:v027": "node scripts/verify-v027-surface.mjs",
+  "verify": "node scripts/verify-www.mjs"
 }
