@@ -1,11 +1,11 @@
 {
   "site": "ANTIMATTERIUM_WWW",
-  "version": "v0.1.2",
+  "version": "v0.1.3",
   "institution": "ANTIMATTERIUM",
   "root_repository": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM",
   "npm_package": "https://www.npmjs.com/package/@antimatterium/antimatterium",
   "npm_install": "npm i @antimatterium/antimatterium",
-  "latest_control_release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.1.9-antimatterium-invocorder-external-recognition",
+  "latest_control_release": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM/releases/tag/v0.2.0-antimatterium-qvra-external-lab-recognition",
   "claim_boundary": {
     "claims_current_industrial_antimatter_production": false,
     "claims_current_starship_readiness": false,
@@ -16,7 +16,8 @@
     "NPM_PACKAGE_BOUND": true,
     "GITHUB_RELEASE_BOUND": true,
     "CROSS_STACK_BINDINGS_BOUND": true,
-    "INVOCORDER_EXTERNAL_RECOGNITION_BOUND": true
+    "INVOCORDER_EXTERNAL_RECOGNITION_BOUND": true,
+    "QVRA_EXTERNAL_LAB_RECOGNITION_BOUND": true
   },
   "cross_stack_bindings": {
     "Verifrax": "admissibility, source authority, public control closure semantics",
@@ -27,5 +28,10 @@
     "release": "https://github.com/INVOCORDER/INVOCORDER/releases/tag/v2.0.1-antimatterium-evidence-profile",
     "pull_request": "https://github.com/INVOCORDER/INVOCORDER/pull/31",
     "scope": "mission-run machine-action evidence profile"
+  },
+  "qvra_external_lab_recognition": {
+    "release": "https://github.com/qvra/lab/releases/tag/v0.1.0-qvra-antimatterium-lab-object",
+    "pull_request": "https://github.com/qvra/lab/pull/1",
+    "scope": "runnable qvra lab object"
   }
 }
