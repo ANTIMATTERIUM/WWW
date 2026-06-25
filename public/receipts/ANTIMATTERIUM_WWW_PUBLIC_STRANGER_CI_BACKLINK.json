@@ -1,0 +1,30 @@
+{
+  "schema": "ANTIMATTERIUM_WWW_PUBLIC_STRANGER_CI_BACKLINK",
+  "object": "ANTIMATTERIUM_WWW",
+  "www_version": "0.1.9",
+  "control_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.1.6-antimatterium-control-public-stranger-ci",
+  "public_stranger_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28130879044",
+  "bound_identifiers": {
+    "public_stranger_ci_id": "6130ca7749ec3f79bdde19e47374f7dfb6d7ae5334d025e996a8d7593bcaa4ca",
+    "public_release_matrix_id": "c062a81788d930fe0924526b94d5b6dbadc027337d2ab416c86710771d8c27c1",
+    "stranger_final_audit_id": "95b03e5adbaad27eafa524a020c83de0bf590d7bf9a9a92e89b967b48a0ff9e7",
+    "bidirectional_public_closure_id": "1c4226ae9e5ed6b50d3f2ec97b0e43ca19f1800949bdca8f745ae5845e5d851e",
+    "ci_evidence_seal_id": "402681ceb54a72fc8c6681e1f46840ad8426ca08dac660484cc3a92b86a212ee",
+    "prior_www_control_backlink_id": "5551c9f397d947f71e07d2c90aaebbc669964c672b81aaec16d4b6c50869dd70"
+  },
+  "acceptance": {
+    "control_v016_release_bound": true,
+    "public_stranger_ci_run_bound": true,
+    "public_release_matrix_bound": true,
+    "stranger_final_audit_bound": true,
+    "bidirectional_public_closure_bound": true,
+    "www_surface_backlinked_to_live_public_ci": true
+  },
+  "boundaries": {
+    "NO_CURRENT_PRODUCTION_CLAIM": true,
+    "NO_STARSHIP_CLAIM": true,
+    "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  },
+  "www_public_stranger_ci_backlink_id": "6e884796bc7a4c83f7c596e32c98b0a1d382935d82ce82a15a22dd34d34304aa"
+}

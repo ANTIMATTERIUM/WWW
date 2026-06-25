@@ -19,3 +19,12 @@ WWW v0.1.8 binds the public CONTROL v0.1.2 CI evidence seal.
 ANTIMATTERIUM_WWW_CONTROL_CI_EVIDENCE_BACKLINK_VERIFY_PASS=true
 ````
 
+
+## Public Stranger CI Backlink
+
+WWW v0.1.9 binds the live CONTROL v0.1.6 public stranger CI run.
+
+```text
+ANTIMATTERIUM_WWW_PUBLIC_STRANGER_CI_BACKLINK_VERIFY_PASS=true
+````
+
