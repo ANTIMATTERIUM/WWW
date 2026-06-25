@@ -1,0 +1,29 @@
+{
+  "schema": "ANTIMATTERIUM_WWW_PUBLIC_ECOSYSTEM_INDEX_BACKLINK",
+  "object": "ANTIMATTERIUM_WWW",
+  "www_version": "0.1.10",
+  "control_public_ecosystem_index_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.1.8-antimatterium-control-public-ecosystem-index",
+  "control_public_ecosystem_index_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28148611545",
+  "bound_identifiers": {
+    "public_ecosystem_closure_index_id": "85f56c676d2c9bffff66cd59978b8bfcfffb6e8afae91258a71509f0531ba4ea",
+    "second_order_public_stranger_ci_closure_id": "16b259a7d2eb063a5a3c7b6e072c7cbed22f59b9642960f154d099581f157ee8",
+    "public_stranger_ci_id": "6130ca7749ec3f79bdde19e47374f7dfb6d7ae5334d025e996a8d7593bcaa4ca",
+    "prior_www_public_stranger_ci_backlink_id": "6e884796bc7a4c83f7c596e32c98b0a1d382935d82ce82a15a22dd34d34304aa"
+  },
+  "prior_surface_release": "https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.9-antimatterium-www-public-stranger-ci-backlink",
+  "acceptance": {
+    "control_v018_public_ecosystem_index_bound": true,
+    "control_v018_public_ci_run_bound": true,
+    "second_order_public_loop_bound": true,
+    "prior_www_public_stranger_ci_backlink_bound": true,
+    "www_surface_backlinked_to_public_ecosystem_index": true,
+    "no_private_source_required": true
+  },
+  "boundaries": {
+    "NO_CURRENT_PRODUCTION_CLAIM": true,
+    "NO_STARSHIP_CLAIM": true,
+    "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  },
+  "www_public_ecosystem_index_backlink_id": "6b5f3844dffe293bc02c6bcb1b20397285a977b1172d1186621299c698d86078"
+}

@@ -28,3 +28,9 @@ WWW v0.1.9 binds the live CONTROL v0.1.6 public stranger CI run.
 ANTIMATTERIUM_WWW_PUBLIC_STRANGER_CI_BACKLINK_VERIFY_PASS=true
 ````
 
+
+## Public Ecosystem Index Backlink
+
+WWW v0.1.10 binds CONTROL v0.1.8 public ecosystem closure index.
+
+ANTIMATTERIUM_WWW_PUBLIC_ECOSYSTEM_INDEX_BACKLINK_VERIFY_PASS=true
