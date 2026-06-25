@@ -1,0 +1,27 @@
+{
+  "schema": "ANTIMATTERIUM_WWW_PUBLIC_ROOTLESS_RECONSTRUCTION_BACKLINK",
+  "object": "ANTIMATTERIUM_WWW",
+  "www_version": "0.1.11",
+  "control_public_rootless_reconstruction_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.0-antimatterium-control-public-rootless-reconstruction-index",
+  "control_public_rootless_reconstruction_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28149722481",
+  "bound_identifiers": {
+    "public_rootless_reconstruction_index_id": "7cab442dcb14c223ffe740cd1c1c9c5f107e7bd6ee48957db775d493e93e5e8e",
+    "public_ecosystem_index_echo_closure_id": "57965b352d283bd06ff513e8d3e30cfa9578cedb4fb55eea5b2ce2962ae26172",
+    "public_ecosystem_closure_index_id": "85f56c676d2c9bffff66cd59978b8bfcfffb6e8afae91258a71509f0531ba4ea",
+    "prior_www_public_ecosystem_index_backlink_id": "6b5f3844dffe293bc02c6bcb1b20397285a977b1172d1186621299c698d86078"
+  },
+  "acceptance": {
+    "control_v020_rootless_reconstruction_bound": true,
+    "control_v020_ci_run_bound": true,
+    "public_releases_sufficient_bound": true,
+    "no_local_root_required_bound": true,
+    "www_surface_backlinked_to_rootless_reconstruction": true
+  },
+  "boundaries": {
+    "NO_CURRENT_PRODUCTION_CLAIM": true,
+    "NO_STARSHIP_CLAIM": true,
+    "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  },
+  "www_public_rootless_reconstruction_backlink_id": "3dd5c95367eceae8453a45181cb8859bb8c10497b4781900dd3e8b8a65d73836"
+}
