@@ -39,3 +39,15 @@ npm run verify:rootless-fanout-echo
 Marker:
 
 ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_ECHO_MEMBER=true
+
+## Rootless Fanout Backlink Closure Backlink
+
+WWW v0.1.13 binds CONTROL v0.2.2 rootless fanout backlink closure.
+
+Command:
+
+npm run verify:rootless-fanout-backlink-closure
+
+Marker:
+
+ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_MEMBER=true
