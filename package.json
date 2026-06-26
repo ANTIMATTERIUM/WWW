@@ -1,11 +1,11 @@
 {
   "name": "@antimatterium/www",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "private": true,
   "type": "module",
   "license": "Apache-2.0",
   "scripts": {
-    "verify": "node scripts/verify-www.mjs",
+    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs",
     "test": "node scripts/verify-www.mjs",
     "verify:org-profile-surface": "node scripts/verify-org-profile-surface.mjs",
     "verify:v027": "node scripts/verify-v027-surface.mjs",
@@ -14,7 +14,8 @@
     "verify:control-ci-evidence": "node scripts/verify-www-control-ci-evidence-backlink.mjs",
     "verify:public-stranger-ci": "node scripts/verify-www-public-stranger-ci-backlink.mjs",
     "verify:ecosystem-index": "node scripts/verify-www-public-ecosystem-index-backlink.mjs",
-    "verify:rootless-reconstruction": "node scripts/verify-www-public-rootless-reconstruction-backlink.mjs"
+    "verify:rootless-reconstruction": "node scripts/verify-www-public-rootless-reconstruction-backlink.mjs",
+    "verify:rootless-fanout-echo": "node scripts/verify-www-rootless-fanout-echo-backlink.mjs"
   },
   "verify:v027": "node scripts/verify-v027-surface.mjs",
   "verify": "node scripts/verify-www.mjs"

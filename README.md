@@ -27,3 +27,15 @@ This surface projects Core v0.2.11 Public Chain OS into the public web layer.
 ```text id="m38yu5"
 CORE_CHAIN_OS_ID=d0f3271f3808297cc8459bc0e19f0df5b5bce60c32bad87c56fb96b7b72cb577
 ```
+
+## Rootless Fanout Echo Backlink
+
+WWW v0.1.12 binds the CONTROL v0.2.1 rootless fanout echo closure.
+
+Command:
+
+npm run verify:rootless-fanout-echo
+
+Marker:
+
+ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_ECHO_MEMBER=true
