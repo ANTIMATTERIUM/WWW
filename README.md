@@ -51,3 +51,15 @@ npm run verify:rootless-fanout-backlink-closure
 Marker:
 
 ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_MEMBER=true
+
+## Rootless Fanout Backpropagation Echo Backlink
+
+WWW v0.1.14 binds CONTROL v0.2.3 rootless fanout backpropagation echo closure.
+
+Command:
+
+npm run verify:rootless-fanout-backpropagation-echo
+
+Marker:
+
+ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_MEMBER=true

@@ -1,0 +1,29 @@
+{
+  "schema": "ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_BACKLINK",
+  "object": "ANTIMATTERIUM_WWW",
+  "www_version": "0.1.14",
+  "binds_control": {
+    "tag": "v0.2.3-antimatterium-control-rootless-fanout-backpropagation-echo-closure",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.3-antimatterium-control-rootless-fanout-backpropagation-echo-closure",
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28267965467",
+    "rootless_fanout_backpropagation_echo_closure_id": "01ac56b5b2f42077580d464d5053ea3ae5860f3a2f05a46d68ca1c1805215649"
+  },
+  "inherited": {
+    "rootless_fanout_backlink_closure_id": "9d411e38f3dd5a7f97bd33e4d8955a4646c6bcd346ffed2c97f6176b32d17922",
+    "www_rootless_fanout_backlink_closure_backlink_id": "f527d82bbee5231c0be501929d53ca79c0fc1878d174b3e314762e9a224d1504"
+  },
+  "acceptance": {
+    "control_v023_release_bound": true,
+    "control_v023_ci_run_bound": true,
+    "rootless_fanout_backpropagation_echo_closure_bound": true,
+    "www_surface_backlinked_to_v023_echo_closure": true,
+    "no_local_root_required": true
+  },
+  "boundaries": {
+    "NO_CURRENT_PRODUCTION_CLAIM": true,
+    "NO_STARSHIP_CLAIM": true,
+    "NO_PHYSICAL_PRODUCTION_INSTRUCTIONS": true,
+    "NON_PUBLIC_INFORMATION_EXCLUDED": true
+  },
+  "www_rootless_fanout_backpropagation_echo_backlink_id": "675637017355486438fc8e56c009c029a55fcf20ec6a421e43a1d50719be3a18"
+}
