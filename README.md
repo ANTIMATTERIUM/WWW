@@ -104,3 +104,18 @@ This surface binds CONTROL v0.2.6 rootless fanout backlink closure backpropagati
 - Current production claim: false
 - Starship claim: false
 - Physical production instructions: false\n\n<!-- ANTIMATTERIUM:ROOTLESS-FANOUT-BACKLINK-CLOSURE-BACKPROPAGATION-CLOSURE-FANOUT-CLOSURE-BACKLINK:START -->\n## CONTROL v0.2.7 rootless fanout backlink closure backpropagation closure fanout closure backlink\n\n- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.7-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure\n- CONTROL CI run: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28327734001\n- Closure id: 755c0844bc9bd8c3194e1fc02bc1254e9b6a0c5cefb79d21bb5ae6d0b1e5baa1\n- Backlink id: 1f02f05b5321a32442cb8af4a2c4e27b7aacbadbaef543619386feed136f1af3\n- Local root required: false\n- Current production claim: false\n- Starship claim: false\n- Physical production instructions: false\n<!-- ANTIMATTERIUM:ROOTLESS-FANOUT-BACKLINK-CLOSURE-BACKPROPAGATION-CLOSURE-FANOUT-CLOSURE-BACKLINK:END -->\n
+
+<!-- ANTIMATTERIUM_MOVE21_ROOTLESS_FANOUT_BACKLINK_CLOSURE_BACKPROPAGATION_CLOSURE_FANOUT_BACKLINK_CLOSURE_BACKLINK_START -->
+## CONTROL v0.2.8 rootless fanout backlink closure backlink
+
+This surface binds the CONTROL v0.2.8 public closure into WWW.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.8-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure
+- CONTROL public CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28334484888
+- CONTROL closure id: be4ae8df12eb897733590e1732b9e539447cb16e2b1de6018f62c4d41e4cd3ff
+- Surface backlink id: 5ace63cbcedfbed1fbd1e5f96438ed9a463358482a781dc96cf97f8f9f582907
+- Local root required: no
+- Current production claim: no
+- Starship claim: no
+- Physical production instructions: no
+<!-- ANTIMATTERIUM_MOVE21_ROOTLESS_FANOUT_BACKLINK_CLOSURE_BACKPROPAGATION_CLOSURE_FANOUT_BACKLINK_CLOSURE_BACKLINK_END -->
