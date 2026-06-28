@@ -103,4 +103,4 @@ This surface binds CONTROL v0.2.6 rootless fanout backlink closure backpropagati
 - Local-root dependency: not required
 - Current production claim: false
 - Starship claim: false
-- Physical production instructions: false
+- Physical production instructions: false\n\n<!-- ANTIMATTERIUM:ROOTLESS-FANOUT-BACKLINK-CLOSURE-BACKPROPAGATION-CLOSURE-FANOUT-CLOSURE-BACKLINK:START -->\n## CONTROL v0.2.7 rootless fanout backlink closure backpropagation closure fanout closure backlink\n\n- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.7-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure\n- CONTROL CI run: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28327734001\n- Closure id: 755c0844bc9bd8c3194e1fc02bc1254e9b6a0c5cefb79d21bb5ae6d0b1e5baa1\n- Backlink id: 1f02f05b5321a32442cb8af4a2c4e27b7aacbadbaef543619386feed136f1af3\n- Local root required: false\n- Current production claim: false\n- Starship claim: false\n- Physical production instructions: false\n<!-- ANTIMATTERIUM:ROOTLESS-FANOUT-BACKLINK-CLOSURE-BACKPROPAGATION-CLOSURE-FANOUT-CLOSURE-BACKLINK:END -->\n
