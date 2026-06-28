@@ -75,3 +75,19 @@ npm run verify:rootless-fanout-backpropagation-echo-fanout-closure
 Marker:
 
 ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_FANOUT_CLOSURE_MEMBER=true
+
+## Rootless Fanout Backpropagation Echo Fanout Backlink Closure
+
+WWW binds CONTROL v0.2.5 as a public backlink to the rootless fanout backpropagation echo fanout backlink closure.
+
+Command:
+
+npm run verify:rootless-fanout-backpropagation-echo-fanout-backlink-closure
+
+Markers:
+
+ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKPROPAGATION_ECHO_FANOUT_BACKLINK_CLOSURE_BACKLINK_VERIFY_PASS=true
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
+NO_CURRENT_PRODUCTION_CLAIM=true
+NO_STARSHIP_CLAIM=true
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true

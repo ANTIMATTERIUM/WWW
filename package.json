@@ -1,6 +1,6 @@
 {
   "name": "@antimatterium/www",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "private": true,
   "type": "module",
   "license": "Apache-2.0",
@@ -18,7 +18,8 @@
     "verify:rootless-fanout-echo": "node scripts/verify-www-rootless-fanout-echo-backlink.mjs",
     "verify:rootless-fanout-backlink-closure": "node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs",
-    "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs"
+    "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs",
+    "verify:rootless-fanout-backpropagation-echo-fanout-backlink-closure": "node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-backlink-closure-backlink.mjs"
   },
   "verify:v027": "node scripts/verify-v027-surface.mjs",
   "verify": "node scripts/verify-www.mjs"
