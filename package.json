@@ -1,11 +1,11 @@
 {
   "name": "@antimatterium/www",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "private": true,
   "type": "module",
   "license": "Apache-2.0",
   "scripts": {
-    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs",
+    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs",
     "test": "node scripts/verify-www.mjs",
     "verify:org-profile-surface": "node scripts/verify-org-profile-surface.mjs",
     "verify:v027": "node scripts/verify-v027-surface.mjs",
@@ -17,7 +17,8 @@
     "verify:rootless-reconstruction": "node scripts/verify-www-public-rootless-reconstruction-backlink.mjs",
     "verify:rootless-fanout-echo": "node scripts/verify-www-rootless-fanout-echo-backlink.mjs",
     "verify:rootless-fanout-backlink-closure": "node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs",
-    "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs"
+    "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs",
+    "verify:rootless-fanout-backpropagation-echo-fanout-closure": "node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs"
   },
   "verify:v027": "node scripts/verify-v027-surface.mjs",
   "verify": "node scripts/verify-www.mjs"
