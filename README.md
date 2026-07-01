@@ -259,3 +259,22 @@ Safety boundary remains explicit:
 - `NO_STARSHIP_CLAIM=true`
 - `NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true`
 <!-- ANTIMATTERIUM_MOVE41_WWW_CONTROL_V0218_BACKLINK_END -->
+
+<!-- ANTIMATTERIUM_MOVE43_WWW_CONTROL_V0219_BACKLINK_START -->
+## CONTROL v0.2.19 public surface backlink
+
+This surface binds the CONTROL v0.2.19 public closure as a replayable public backlink using short public tag discipline.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.19-antimatterium-control-move41-surface-closure
+- CONTROL CI run: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28525061736
+- CONTROL closure id: `9ae0cf352d7062356e02b964d517a9321f0c0743d2eba695fb0d6adc6a702f08`
+- Surface backlink id: `a1daaf00ecc840a8f30513505205e2414dc170f1141bc6adcb501bd6b6121b75`
+- Verify: `npm run verify:move43-control-v0219-backlink`
+- `ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true`
+
+Safety boundary remains explicit:
+
+- `NO_CURRENT_PRODUCTION_CLAIM=true`
+- `NO_STARSHIP_CLAIM=true`
+- `NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true`
+<!-- ANTIMATTERIUM_MOVE43_WWW_CONTROL_V0219_BACKLINK_END -->
