@@ -19,6 +19,7 @@
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink": "node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink": "node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink": "node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink.mjs",
+    "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink": "node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink.mjs",
     "verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure": "node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-fanout-closure-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo": "node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs",
     "verify:rootless-fanout-backpropagation-echo-fanout-backlink-closure": "node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-backlink-closure-backlink.mjs",
@@ -30,5 +31,5 @@
   "type": "module",
   "verify": "node scripts/verify-www.mjs",
   "verify:v027": "node scripts/verify-v027-surface.mjs",
-  "version": "0.1.24"
+  "version": "0.1.25"
 }
