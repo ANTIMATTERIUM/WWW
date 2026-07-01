@@ -1,0 +1,22 @@
+{
+  "backlink": "rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink",
+  "backlink_id": "a3d6f3ed5210e69f8a21f778a29c7452387a5d186925c7eb9188c3bc1a7acba5",
+  "control": {
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28516895725",
+    "closure": "rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure",
+    "closure_id": "5fd82a631ca4d01e4209288479d3cbcd623ddd017587722d2c67708ff3cbf56a",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.15-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure",
+    "version": "0.2.15"
+  },
+  "membership": "CONTROL_V0215_PUBLIC_SURFACE_BACKLINK_MEMBER",
+  "no_current_production_claim": true,
+  "no_local_root_required": true,
+  "no_physical_production_instructions": true,
+  "no_starship_claim": true,
+  "package": {
+    "name": "@antimatterium/www",
+    "version": "0.1.26"
+  },
+  "schema": "antimatterium.surface.control_backlink.v1",
+  "surface": "WWW"
+}
