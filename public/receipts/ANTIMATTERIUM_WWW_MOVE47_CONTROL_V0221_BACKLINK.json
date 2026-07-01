@@ -1,0 +1,27 @@
+{
+  "WWW_MOVE47_CONTROL_V0221_BACKLINK_ID": "eebb0a4ef643a7c9e5c12de6514898ec1bfd56f4ba9cef8ad82e1a892b1f4e0d",
+  "backlink_id": "eebb0a4ef643a7c9e5c12de6514898ec1bfd56f4ba9cef8ad82e1a892b1f4e0d",
+  "control": {
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28527938011",
+    "closure_id": "84ca47ad18ab3583671eeb5e7d329aff13cb3b30413b2a634d2d08ba07f393d3",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.21-antimatterium-control-move45-surface-closure",
+    "tag": "v0.2.21-antimatterium-control-move45-surface-closure",
+    "version": "0.2.21"
+  },
+  "move": 47,
+  "no_current_production_claim": true,
+  "no_local_root_required": true,
+  "no_physical_production_instructions": true,
+  "no_starship_claim": true,
+  "package_name": "@antimatterium/www",
+  "package_version": "0.1.32",
+  "public_tag": "v0.1.32-antimatterium-www-control-v0221-backlink",
+  "release_title": "WWW CONTROL v0.2.21 backlink",
+  "schema": "antimatterium.move47_control_v0221_backlink.v1",
+  "short_public_tag_required": true,
+  "surface": "www",
+  "verification": {
+    "command": "npm run verify:move47-control-v0221-backlink",
+    "verify_flag": "ANTIMATTERIUM_WWW_MOVE47_CONTROL_V0221_BACKLINK_VERIFY_PASS"
+  }
+}
