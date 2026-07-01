@@ -1,0 +1,25 @@
+{
+  "WWW_ROOTLESS_FANOUT_BACKLINK_CLOSURE_BACKPROPAGATION_CLOSURE_FANOUT_BACKLINK_CLOSURE_FANOUT_CLOSURE_BACKLINK_CLOSURE_FANOUT_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_ID": "e0d7c0656edb7d82aef592ce161b22b83d96b271de5bce0627b09ab20ff0379c",
+  "backlink_id": "e0d7c0656edb7d82aef592ce161b22b83d96b271de5bce0627b09ab20ff0379c",
+  "control_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28518517865",
+  "control_closure_id": "e9f48278e811786b35f9939f982d502a7b0eacc4aff47e03e9257095190c6d26",
+  "control_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.16-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure",
+  "control_tag": "v0.2.16-antimatterium-control-rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure",
+  "control_version": "0.2.16",
+  "move": 37,
+  "no_current_production_claim": true,
+  "no_local_root_required": true,
+  "no_physical_production_instructions": true,
+  "no_starship_claim": true,
+  "package_name": "@antimatterium/www",
+  "package_version": "0.1.27",
+  "schema": "antimatterium.www.control_v0216_surface_backlink.v1",
+  "surface": "WWW",
+  "surface_slug": "rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink",
+  "verification": {
+    "command": "npm run verify:rootless-fanout-backlink-closure-backpropagation-closure-fanout-backlink-closure-fanout-closure-backlink-closure-fanout-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink-closure-backlink",
+    "control_member_flag": "ANTIMATTERIUM_WWW_CONTROL_V0216_MEMBER",
+    "control_release_bound_flag": "ANTIMATTERIUM_WWW_CONTROL_V0216_RELEASE_BOUND",
+    "verify_flag": "ANTIMATTERIUM_WWW_ROOTLESS_FANOUT_BACKLINK_CLOSURE_BACKPROPAGATION_CLOSURE_FANOUT_BACKLINK_CLOSURE_FANOUT_CLOSURE_BACKLINK_CLOSURE_FANOUT_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_CLOSURE_BACKLINK_VERIFY_PASS"
+  }
+}
