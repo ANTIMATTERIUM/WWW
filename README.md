@@ -316,3 +316,25 @@ Safety boundary remains explicit:
 - 
 - 
 {end}
+
+<!-- ANTIMATTERIUM_MOVE49_CONTROL_V0222_BACKLINK_START -->
+## MOVE 49 — CONTROL v0.2.22 backlink
+
+WWW v0.1.33 binds the CONTROL v0.2.22 public surface fanout closure.
+
+- Public tag: `v0.1.33-antimatterium-www-control-v0222-backlink`
+- Public release: https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.33-antimatterium-www-control-v0222-backlink
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.22-antimatterium-control-move47-surface-closure
+- CONTROL CI run: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28534121995
+- CONTROL closure id: `89b2f9e3f39ae4e63f9a1c648e95b310ad5145c2cae94778ca3227fcbe1c2c49`
+- Receipt: `public/receipts/ANTIMATTERIUM_WWW_MOVE49_CONTROL_V0222_BACKLINK.json`
+- Short public tag required: true
+- No local root required: true
+
+Safety boundary:
+
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+<!-- ANTIMATTERIUM_MOVE49_CONTROL_V0222_BACKLINK_END -->
+
