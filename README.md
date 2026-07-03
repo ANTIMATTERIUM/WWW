@@ -356,3 +356,22 @@ ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
 NO_CURRENT_PRODUCTION_CLAIM=true  
 NO_STARSHIP_CLAIM=true  
 NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+<!-- ANTIMATTERIUM_WWW_MOVE53_CONTROL_V0224_BACKLINK -->
+## CONTROL v0.2.24 public closure backlink — Move 53
+
+This public surface binds the CONTROL v0.2.24 Move 51 surface closure back into WWW.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.24-antimatterium-control-move51-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28678642573
+- CONTROL closure ID: `fd4abe2ef7ad043517e9d065310b4ededeb625d4e0937e8b5d57eff7b85a2872`
+- Surface public tag: `v0.1.35-antimatterium-www-control-v0224-backlink`
+- Surface backlink ID: `aa66fcbfc52271292c9f0c42759bc545add393d47ffbfa9147f8f0c4ab911774`
+- Receipt: `public/receipts/ANTIMATTERIUM_WWW_MOVE53_CONTROL_V0224_BACKLINK.json`
+- Verifier: `scripts/verify-www-move53-control-v0224-backlink.mjs`
+
+ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true  
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true  
+NO_CURRENT_PRODUCTION_CLAIM=true  
+NO_STARSHIP_CLAIM=true  
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
