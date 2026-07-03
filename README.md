@@ -338,3 +338,21 @@ Safety boundary:
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
 <!-- ANTIMATTERIUM_MOVE49_CONTROL_V0222_BACKLINK_END -->
 
+<!-- ANTIMATTERIUM_WWW_MOVE51_CONTROL_V0223_BACKLINK -->
+## CONTROL v0.2.23 public closure backlink — Move 51
+
+This public surface binds the CONTROL v0.2.23 Move 49 surface closure back into WWW.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.23-antimatterium-control-move49-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28641499317
+- CONTROL closure ID: `35f989768e72c5d856cc79bf1d84dac2c950ffd2552c81133f470637d441dd0e`
+- Surface public tag: `v0.1.34-antimatterium-www-control-v0223-backlink`
+- Surface backlink ID: `99a1086a802c112208e85432c4de265de299595f2c5104ae86b5335d742cf50b`
+- Receipt: `public/receipts/ANTIMATTERIUM_WWW_MOVE51_CONTROL_V0223_BACKLINK.json`
+- Verifier: `scripts/verify-www-move51-control-v0223-backlink.mjs`
+
+ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true  
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true  
+NO_CURRENT_PRODUCTION_CLAIM=true  
+NO_STARSHIP_CLAIM=true  
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
