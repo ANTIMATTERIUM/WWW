@@ -411,3 +411,22 @@ This public surface binds CONTROL v0.2.26 as the latest public surface fanout cl
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+<!-- ANTIMATTERIUM_WWW_MOVE59_CONTROL_V0227_BACKLINK -->
+## Move 59 — WWW binds CONTROL v0.2.27
+
+WWW 0.1.38 binds the CONTROL v0.2.27 public closure.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.27-antimatterium-control-move57-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28705916342
+- CONTROL closure ID: `a2641f70f738ae3e5959f8f1c46f4c8328a938b59a8112afbbff6702758691ba`
+- WWW public tag: `v0.1.38-antimatterium-www-control-v0227-backlink`
+- Move 59 backlink ID: `3474233f57f492980f136b5e5d9df0946499cc64e09a06aa59c2283f3d7f816d`
+- Receipt: `public/receipts/ANTIMATTERIUM_WWW_MOVE59_CONTROL_V0227_BACKLINK.json`
+- Verifier: `scripts/verify-www-move59-control-v0227-backlink.mjs`
+
+ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true  
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true  
+NO_CURRENT_PRODUCTION_CLAIM=true  
+NO_STARSHIP_CLAIM=true  
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
