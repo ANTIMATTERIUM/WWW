@@ -1,0 +1,40 @@
+import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+
+const receipt = JSON.parse(readFileSync('public/receipts/ANTIMATTERIUM_WWW_MOVE75_CONTROL_V0235_BACKLINK.json', 'utf8'));
+const pkg = JSON.parse(readFileSync('package.json', 'utf8'));
+
+assert.equal(pkg.version, '0.1.46');
+assert.equal(receipt.schema, 'antimatterium.surface.control_backlink.receipt.v1');
+assert.equal(receipt.move, 75);
+assert.equal(receipt.surface_key, 'www');
+assert.equal(receipt.surface_display, 'WWW');
+assert.equal(receipt.surface_version, '0.1.46');
+assert.equal(receipt.surface_tag, 'v0.1.46-antimatterium-www-control-v0235-backlink');
+assert.equal(receipt.surface_release, 'https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.46-antimatterium-www-control-v0235-backlink');
+assert.equal(receipt.control_version, '0.2.35');
+assert.equal(receipt.control_tag, 'v0.2.35-antimatterium-control-move73-surface-closure');
+assert.equal(receipt.control_release, 'https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.35-antimatterium-control-move73-surface-closure');
+assert.equal(receipt.control_ci_run, 'https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28817843561');
+assert.equal(receipt.control_closure_id, '2585bfc44100f7684c5ea9ac876dc522b0329df829fb4bfb35ee0fcf09cd351f');
+assert.equal(receipt.binding.type, 'public_surface_backlink');
+assert.equal(receipt.binding.source, 'CONTROL public closure');
+assert.equal(receipt.binding.target, 'WWW');
+assert.equal(receipt.binding.source_move, 74);
+assert.equal(receipt.binding.target_move, 75);
+assert.equal(receipt.claims.short_public_tag_required, true);
+assert.equal(receipt.claims.no_local_root_required, true);
+assert.equal(receipt.claims.no_current_production_claim, true);
+assert.equal(receipt.claims.no_starship_claim, true);
+assert.equal(receipt.claims.no_physical_production_instructions, true);
+assert.equal(receipt.backlink_id, '990a25dc7da43d5ec3235d11c621f53e6e81a12d591c03fc3351f311e4598cd5');
+
+console.log('ANTIMATTERIUM_WWW_MOVE75_CONTROL_V0235_BACKLINK_VERIFY_PASS=true');
+console.log('ANTIMATTERIUM_WWW_CONTROL_V0235_RELEASE_BOUND=true');
+console.log('ANTIMATTERIUM_WWW_CONTROL_V0235_MEMBER=true');
+console.log('ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true');
+console.log('ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true');
+console.log('ANTIMATTERIUM_WWW_MOVE75_CONTROL_V0235_BACKLINK_ID=990a25dc7da43d5ec3235d11c621f53e6e81a12d591c03fc3351f311e4598cd5');
+console.log('NO_CURRENT_PRODUCTION_CLAIM=true');
+console.log('NO_STARSHIP_CLAIM=true');
+console.log('NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true');
