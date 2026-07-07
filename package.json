@@ -77,10 +77,12 @@
     "verify:move83-control-v0239-backlink": "node scripts/verify-www-move83-control-v0239-backlink.mjs",
     "test:move83-control-v0239-backlink": "node --test tests/www-move83-control-v0239-backlink.test.mjs",
     "verify:move85-control-v0240-backlink": "node scripts/verify-www-move85-control-v0240-backlink.mjs",
-    "test:move85-control-v0240-backlink": "node --test tests/www-move85-control-v0240-backlink.test.mjs"
+    "test:move85-control-v0240-backlink": "node --test tests/www-move85-control-v0240-backlink.test.mjs",
+    "verify:move87-control-v0241-backlink": "node scripts/verify-www-move87-control-v0241-backlink.mjs",
+    "test:move87-control-v0241-backlink": "node --test tests/www-move87-control-v0241-backlink.test.mjs"
   },
   "type": "module",
   "verify": "node scripts/verify-www.mjs",
   "verify:v027": "node scripts/verify-v027-surface.mjs",
-  "version": "0.1.51"
+  "version": "0.1.52"
 }
