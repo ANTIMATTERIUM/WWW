@@ -638,3 +638,18 @@ WWW binds the CONTROL v0.2.40 public closure as a replayable public backlink.
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+## Move 87 — CONTROL v0.2.41 backlink
+
+WWW binds CONTROL v0.2.41 as a public release backlink.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.41-antimatterium-control-move85-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28900560674
+- CONTROL closure ID: 448a8074d76baf5d958c6069dbf3d7a9057f86b17aa5d2c74aee76167afc7542
+- Surface package: @antimatterium/www@0.1.52
+- Surface tag: v0.1.52-antimatterium-www-control-v0241-backlink
+- Short public tag required: true
+- No local root required: true
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
