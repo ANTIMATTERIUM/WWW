@@ -1,0 +1,25 @@
+{
+  "schema": "antimatterium.www.move89.control_v0242_backlink.v1",
+  "move": 89,
+  "surface": "www",
+  "package": "@antimatterium/www",
+  "version": "0.1.53",
+  "source_control": {
+    "version": "0.2.42",
+    "tag": "v0.2.42-antimatterium-control-move87-surface-closure",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.42-antimatterium-control-move87-surface-closure",
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/28901274914",
+    "closure_id": "280a205f6631f33300cfd7d5c25c791877823bd52fbcc9d7544d85d561401d4b"
+  },
+  "backlink": {
+    "release_member": true,
+    "short_public_tag_required": true,
+    "no_local_root_required": true
+  },
+  "safety": {
+    "no_current_production_claim": true,
+    "no_starship_claim": true,
+    "no_physical_production_instructions": true
+  },
+  "backlink_id": "5dfbbee5ba6f95a1dd0d67c904f0d7096f86c03a8f9439e3b0c6fcf4aa522bde"
+}
