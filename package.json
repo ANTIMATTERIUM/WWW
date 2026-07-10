@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "test": "node scripts/verify-www.mjs",
-    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs",
+    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs && node scripts/verify-www-move95-control-v0245-backlink.mjs",
     "verify:control-ci-evidence": "node scripts/verify-www-control-ci-evidence-backlink.mjs",
     "verify:ecosystem-index": "node scripts/verify-www-public-ecosystem-index-backlink.mjs",
     "verify:npm-022-surface": "node scripts/verify-www-npm-022-surface.mjs",
@@ -85,10 +85,12 @@
     "verify:move91-control-v0243-backlink": "node scripts/verify-www-move91-control-v0243-backlink.mjs",
     "test:move91-control-v0243-backlink": "node --test tests/www-move91-control-v0243-backlink.test.mjs",
     "verify:move93-control-v0244-backlink": "node scripts/verify-www-move93-control-v0244-backlink.mjs",
-    "test:move93-control-v0244-backlink": "node --test tests/www-move93-control-v0244-backlink.test.mjs"
+    "test:move93-control-v0244-backlink": "node --test tests/www-move93-control-v0244-backlink.test.mjs",
+    "verify:move95-control-v0245-backlink": "node scripts/verify-www-move95-control-v0245-backlink.mjs",
+    "test:move95-control-v0245-backlink": "node --test tests/www-move95-control-v0245-backlink.test.mjs"
   },
   "type": "module",
   "verify": "node scripts/verify-www.mjs",
   "verify:v027": "node scripts/verify-v027-surface.mjs",
-  "version": "0.1.55"
+  "version": "0.1.56"
 }
