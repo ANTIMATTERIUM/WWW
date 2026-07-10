@@ -1,0 +1,33 @@
+{
+  "schema": "antimatterium.www.move95.control_v0245_backlink.v1",
+  "move": 95,
+  "relation": "surface_backlink_to_control_v0245_closure",
+  "surface": {
+    "key": "WWW",
+    "label": "WWW",
+    "repository": "ANTIMATTERIUM/WWW",
+    "package_name": "@antimatterium/www",
+    "version": "0.1.56",
+    "release_tag": "v0.1.56-antimatterium-www-control-v0245-backlink"
+  },
+  "source_control": {
+    "version": "0.2.45",
+    "release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.45-antimatterium-control-move93-surface-closure",
+    "tag": "v0.2.45-antimatterium-control-move93-surface-closure",
+    "ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29114333184",
+    "closure_id": "a233a9b9a989b021c008843e9a9947af74a27127debb13cd6539cc284cc23b03",
+    "main_sha": "e4a2d18ed58554dbbaacdca836e07a60ca8b49ad"
+  },
+  "public_constraints": {
+    "short_public_tag_required": true,
+    "no_local_root_required": true,
+    "no_current_production_claim": true,
+    "no_starship_claim": true,
+    "no_physical_production_instructions": true
+  },
+  "backlink": {
+    "id": "366e451002d513247e641b6a90b4fc6d3b987f296f756a740565a7801723905a",
+    "kind": "move95_control_v0245_surface_backlink",
+    "member": true
+  }
+}
