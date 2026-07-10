@@ -748,3 +748,19 @@ WWW binds CONTROL v0.2.47 as a public backlink.
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+
+## Move 101 — WWW CONTROL v0.2.48 backlink
+
+WWW binds CONTROL v0.2.48 as a public surface backlink.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.48-antimatterium-control-move99-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29122920642
+- CONTROL closure ID: 5b65cc86664000ddedcd539e13ad893e6c88e8912f5785a0163c408bb1624132
+- WWW package: @antimatterium/www@0.1.59
+- Move 101 backlink ID: 82ed229a283be8cf9d54e32dbf7f43a82cf3bdd8e0ba8d1b426c992231c83bae
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
