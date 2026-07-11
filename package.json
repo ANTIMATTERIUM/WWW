@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "test": "node scripts/verify-www.mjs",
-    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs && node scripts/verify-www-move95-control-v0245-backlink.mjs && node scripts/verify-www-move97-control-v0246-backlink.mjs && node scripts/verify-www-move109-control-v0252-backlink.mjs",
+    "verify": "node scripts/verify-www.mjs && node scripts/verify-www-rootless-fanout-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-backlink.mjs && node scripts/verify-www-rootless-fanout-backpropagation-echo-fanout-closure-backlink.mjs && node scripts/verify-www-rootless-fanout-backlink-closure-backpropagation-closure-backlink.mjs && node scripts/verify-www-move95-control-v0245-backlink.mjs && node scripts/verify-www-move97-control-v0246-backlink.mjs && node scripts/verify-www-move109-control-v0252-backlink.mjs && node scripts/verify-www-move111-control-v0253-backlink.mjs",
     "verify:control-ci-evidence": "node scripts/verify-www-control-ci-evidence-backlink.mjs",
     "verify:ecosystem-index": "node scripts/verify-www-public-ecosystem-index-backlink.mjs",
     "verify:npm-022-surface": "node scripts/verify-www-npm-022-surface.mjs",
@@ -101,10 +101,12 @@
     "verify:move107-control-v0251-backlink": "node scripts/verify-www-move107-control-v0251-backlink.mjs",
     "test:move107-control-v0251-backlink": "node --test tests/www-move107-control-v0251-backlink.test.mjs",
     "verify:move109-control-v0252-backlink": "node scripts/verify-www-move109-control-v0252-backlink.mjs",
-    "test:move109-control-v0252-backlink": "node --test tests/www-move109-control-v0252-backlink.test.mjs"
+    "test:move109-control-v0252-backlink": "node --test tests/www-move109-control-v0252-backlink.test.mjs",
+    "verify:move111-control-v0253-backlink": "node scripts/verify-www-move111-control-v0253-backlink.mjs",
+    "test:move111-control-v0253-backlink": "node --test tests/www-move111-control-v0253-backlink.test.mjs"
   },
   "type": "module",
   "verify": "node scripts/verify-www.mjs",
   "verify:v027": "node scripts/verify-v027-surface.mjs",
-  "version": "0.1.63"
+  "version": "0.1.64"
 }
