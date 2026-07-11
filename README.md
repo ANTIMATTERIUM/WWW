@@ -811,3 +811,19 @@ WWW 0.1.62 binds the CONTROL v0.2.51 public closure into its public backlink cha
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+
+## Move 109 — WWW binds CONTROL v0.2.52 backlink
+
+WWW 0.1.63 binds the CONTROL v0.2.52 public surface closure.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.52-antimatterium-control-move107-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29154133238
+- CONTROL closure ID: 48d0cd4b1cb1a4c75b3c1f213e6062fa06e530af4aa27cffe013581b20873181
+- WWW release tag: v0.1.63-antimatterium-www-control-v0252-backlink
+- WWW backlink ID: fd6747f44d1fa00e122e042355e4a7b1c8f855bb183e581cbdc2b524899b4663
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
