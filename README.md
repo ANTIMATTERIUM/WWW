@@ -895,3 +895,26 @@ WWW 0.1.66 binds to CONTROL 0.2.55.
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+<!-- ANTIMATTERIUM MOVE 117 WWW CONTROL V0256 BACKLINK -->
+## Move 117 — CONTROL v0.2.56 backlink for WWW
+
+This public surface binds CONTROL v0.2.56 as the source authority for the Move 117 surface fanout.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.56-antimatterium-control-move115-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29196327916
+- CONTROL main SHA: 10f9ca7a645ce99ee98e5e5447bb9d36fd371023
+- CONTROL closure ID: 5b91b62a34bc1a092474a60215f0fcbd42a9deb1003105a6bf9f5c08c87fdebc
+- Surface tag: v0.1.67-antimatterium-www-control-v0256-backlink
+- Surface version: 0.1.67
+- Backlink receipt: `public/receipts/ANTIMATTERIUM_WWW_MOVE117_CONTROL_V0256_BACKLINK.json`
+- Backlink verifier: `npm run verify:move117-control-v0256-backlink`
+
+```text
+ANTIMATTERIUM_SHORT_PUBLIC_TAG_REQUIRED=true
+ANTIMATTERIUM_NO_LOCAL_ROOT_REQUIRED=true
+NO_CURRENT_PRODUCTION_CLAIM=true
+NO_STARSHIP_CLAIM=true
+NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+```
+<!-- /ANTIMATTERIUM MOVE 117 WWW CONTROL V0256 BACKLINK -->
