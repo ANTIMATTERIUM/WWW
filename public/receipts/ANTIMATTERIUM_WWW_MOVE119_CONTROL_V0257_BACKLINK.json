@@ -1,0 +1,31 @@
+{
+  "doctrine": "ANTIMATTERIUM_PUBLIC_SURFACE_CONTROL_BACKLINK",
+  "move": 119,
+  "surface": "WWW",
+  "surface_label": "WWW",
+  "surface_repo": "ANTIMATTERIUM/WWW",
+  "surface_version": "0.1.68",
+  "surface_tag": "v0.1.68-antimatterium-www-control-v0257-backlink",
+  "control_version": "0.2.57",
+  "control_tag": "v0.2.57-antimatterium-control-move117-surface-closure",
+  "control_release": "https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.57-antimatterium-control-move117-surface-closure",
+  "control_ci_run": "https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29197125059",
+  "control_main_sha": "ad002077cc6d86bd03655ee8bec24df00f75d17d",
+  "control_closure_id": "b9e403645fe18031552c192cd7ebed2c2d8e9aec070502c6d89b556aabfabf32",
+  "short_public_tag_required": true,
+  "no_local_root_required": true,
+  "no_current_production_claim": true,
+  "no_starship_claim": true,
+  "no_physical_production_instructions": true,
+  "backlink_id": "08488c1ef5ea6678e6c563669a73cea1a814b9d96bbc861a7fa4a045638419a8",
+  "verification": {
+    "release_bound": true,
+    "control_member": true,
+    "replayable_without_local_root": true
+  },
+  "safety": {
+    "no_current_production_claim": true,
+    "no_starship_claim": true,
+    "no_physical_production_instructions": true
+  }
+}
