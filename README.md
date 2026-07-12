@@ -861,3 +861,20 @@ WWW 0.1.64 binds the CONTROL v0.2.53 public closure.
 - No current production claim: true
 - No starship claim: true
 - No physical production instructions: true
+
+
+## Move 113 — CONTROL v0.2.54 backlink
+
+WWW 0.1.65 binds the CONTROL v0.2.54 public closure.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.54-antimatterium-control-move111-surface-closure
+- CONTROL CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29191821036
+- CONTROL main SHA: cba5f798ac6a803803e86ca39ad54376c338d381
+- CONTROL closure ID: ebfc24685134a4fb66c15bf9ec149a0d1a4ec8c98871f9684c0cb73447e751a6
+- WWW release tag: v0.1.65-antimatterium-www-control-v0254-backlink
+- WWW backlink ID: 820dd8dc5685b4624f390bd80e085a27bf8d656033ee8a0fcd0c553bbeecc5cf
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
