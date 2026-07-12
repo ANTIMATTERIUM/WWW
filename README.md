@@ -934,3 +934,20 @@ Safety:
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+## Move 121 — CONTROL v0.2.58 backlink
+
+This surface binds to CONTROL v0.2.58.
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.58-antimatterium-control-move119-surface-closure
+- CONTROL verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29200037531
+- CONTROL main SHA: e9ba24b46fb5ea31d036e0db1eb698946af75353
+- CONTROL closure ID: cb9d670f584aa1a966bbcb5f2cd36aa1da7ac6bd8a68f36ac283a79d776f34dd
+- Surface release: https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.69-antimatterium-www-control-v0258-backlink
+- Surface backlink ID: 52d52363aec015ecdad4f846be5eba8dc79a6b5aa6e0501ac130c00a32c6c7be
+
+Safety boundary:
+
+- NO_CURRENT_PRODUCTION_CLAIM=true
+- NO_STARSHIP_CLAIM=true
+- NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
