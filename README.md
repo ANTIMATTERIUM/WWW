@@ -951,3 +951,30 @@ Safety boundary:
 - NO_CURRENT_PRODUCTION_CLAIM=true
 - NO_STARSHIP_CLAIM=true
 - NO_PHYSICAL_PRODUCTION_INSTRUCTIONS=true
+
+## Move 123 — WWW binds CONTROL v0.2.59
+
+This public surface binds the CONTROL v0.2.59 closure authority.
+
+Authority:
+
+- CONTROL release: https://github.com/ANTIMATTERIUM/CONTROL/releases/tag/v0.2.59-antimatterium-control-move121-surface-closure
+- Verify CI: https://github.com/ANTIMATTERIUM/CONTROL/actions/runs/29204415342
+- Main SHA: 2272ea956e06360479736d5ba822022597ee78e8
+- Closure ID: 4633ac517d2311b52f13e3021a7949c711463504b2c682647433db4f95d62ba5
+
+Surface release:
+
+- https://github.com/ANTIMATTERIUM/WWW/releases/tag/v0.1.70-antimatterium-www-control-v0259-backlink
+
+Backlink ID:
+
+- 71804c5637cfb26d39388fc05168867aeca67036fc76ae40db47777d424a6ff2
+
+Boundary:
+
+- Short public tag required: true
+- No local root required: true
+- No current production claim: true
+- No starship claim: true
+- No physical production instructions: true
